@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\HQC\03-NamingIdentifiersHomework\C#\MineSweeper\bin\Debug\Minesweeper.exe
+D:\Homeworks\SoftUni\HQC\03-NamingIdentifiersHomework\C#\MineSweeper\bin\Debug\Minesweeper.pdb
+D:\Homeworks\SoftUni\HQC\03-NamingIdentifiersHomework\C#\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\03-NamingIdentifiersHomework\C#\MineSweeper\obj\Debug\Minesweeper.exe
+D:\Homeworks\SoftUni\HQC\03-NamingIdentifiersHomework\C#\MineSweeper\obj\Debug\Minesweeper.pdb
