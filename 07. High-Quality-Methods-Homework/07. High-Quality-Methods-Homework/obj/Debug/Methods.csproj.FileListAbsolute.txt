@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\HQC\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\Homeworks\SoftUni\HQC\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\Homeworks\SoftUni\HQC\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\Homeworks\SoftUni\HQC\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
