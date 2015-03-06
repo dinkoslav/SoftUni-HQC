@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\HQC\13. Refactoring-Homework\Matrica\bin\Debug\Matrix.exe
+D:\Homeworks\SoftUni\HQC\13. Refactoring-Homework\Matrica\bin\Debug\Matrix.pdb
+D:\Homeworks\SoftUni\HQC\13. Refactoring-Homework\Matrica\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\13. Refactoring-Homework\Matrica\obj\x86\Debug\Matrix.exe
+D:\Homeworks\SoftUni\HQC\13. Refactoring-Homework\Matrica\obj\x86\Debug\Matrix.pdb
