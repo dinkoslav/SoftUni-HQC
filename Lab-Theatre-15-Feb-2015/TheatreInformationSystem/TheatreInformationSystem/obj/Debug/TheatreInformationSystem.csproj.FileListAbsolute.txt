@@ -1,0 +1,7 @@
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\Huy-Phuong\obj\Debug\Huy-Phuong.pdb
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\TheatreInformationSystem\obj\Debug\TheatreInformationSystem.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\TheatreInformationSystem\bin\Debug\TheatreInformationSystem.exe
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\TheatreInformationSystem\bin\Debug\TheatreInformationSystem.pdb
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\TheatreInformationSystem\obj\Debug\TheatreInformationSystem.exe
+D:\Homeworks\SoftUni\HQC\Lab-Theatre-15-Feb-2015\TheatreInformationSystem\TheatreInformationSystem\obj\Debug\TheatreInformationSystem.pdb
