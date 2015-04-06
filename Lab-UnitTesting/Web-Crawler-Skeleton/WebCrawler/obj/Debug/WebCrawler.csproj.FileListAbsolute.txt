@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\HQC\Lab-UnitTesting\Web-Crawler-Skeleton\WebCrawler\bin\Debug\ConsoleCrawler.exe.config

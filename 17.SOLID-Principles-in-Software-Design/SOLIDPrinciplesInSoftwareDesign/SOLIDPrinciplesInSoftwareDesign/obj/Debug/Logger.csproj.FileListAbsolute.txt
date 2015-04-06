@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe.config
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.pdb
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.pdb

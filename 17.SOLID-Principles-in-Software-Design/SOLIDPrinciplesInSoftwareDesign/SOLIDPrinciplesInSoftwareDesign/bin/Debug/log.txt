@@ -1,0 +1,6 @@
+6.4.2015 г. 15:06:54 - Error - Error parsing JSON.
+6.4.2015 г. 15:06:54 - Info - User Pesho successfully registered.
+6.4.2015 г. 15:06:54 - Warning - Warning - missing files.
+6.4.2015 г. 15:13:43 - Error - Error parsing JSON.
+6.4.2015 г. 15:13:43 - Info - User Pesho successfully registered.
+6.4.2015 г. 15:13:43 - Warning - Warning - missing files.
