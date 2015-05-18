@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\bin\Debug\TravelAgency.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\bin\Debug\TravelAgency.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\bin\Debug\PowerCollections.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\obj\x86\Debug\TravelAgency.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\obj\x86\Debug\TravelAgency.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\Nashmat\obj\x86\Debug\TravelAgency.csprojResolveAssemblyReference.cache

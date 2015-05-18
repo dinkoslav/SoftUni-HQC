@@ -1,0 +1,7 @@
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\bin\Debug\TicketOffice.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\bin\Debug\TicketOffice.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\bin\Debug\PowerCollections.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\bin\Debug\PowerCollections.xml
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\obj\x86\Debug\TicketOffice.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\obj\x86\Debug\TicketOffice.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Evening-Ticket-Office\Salimur\obj\x86\Debug\TicketOffice.pdb

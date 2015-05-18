@@ -1,0 +1,11 @@
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\bin\Debug\VehicleParkSystem.exe.config
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\obj\Debug\VehicleParkSystem.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\bin\Debug\VehicleParkSystem.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\bin\Debug\VehicleParkSystem.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\bin\Debug\PowerCollections.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\bin\Debug\PowerCollections.xml
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\obj\Debug\VehicleParkSystem.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\vp_himineu\obj\Debug\VehicleParkSystem.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\VehicleParkSystem\bin\Debug\VehicleParkSystem.exe.config
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\VehicleParkSystem\obj\Debug\VehicleParkSystem.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam\Vehicle Park System_Условие\vp_himineu\VehicleParkSystem\obj\Debug\VehicleParkSystem.pdb

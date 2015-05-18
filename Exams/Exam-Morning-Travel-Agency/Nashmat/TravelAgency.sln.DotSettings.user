@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5D5E8DF2961247CFBFFF453F88409D42/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5D5E8DF2961247CFBFFF453F88409D42/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5D5E8DF2961247CFBFFF453F88409D42/Name/@EntryValue">All Tests in TravelAgency #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5D5E8DF2961247CFBFFF453F88409D42/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyTrainTicketUnitTests.TestAddTrainTicketIsCorrectlyAdded" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyTrainTicketUnitTests.TestDeleteTrainTicketReturnsTicketDeleted" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyTrainTicketUnitTests.TestDeleteTrainTicketDeleteNonExistingTicket" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyAirTicketUnitTests.TestAddAirTicketIsDuplicated" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyAirTicketUnitTests.TestAddAirTicketIsCorrectlyAdded" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyTrainTicketUnitTests" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyAirTicketUnitTests.TestDeleteAirTicketDeleteNonExistingTicket" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyAirTicketUnitTests.TestDeleteAirTicketReturnsTicketDeleted" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyTrainTicketUnitTests.TestAddTrainTicketIsDuplicated" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyAirTicketUnitTests" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyBusTicketUnitTests.TestDeleteBusTicketDeleteNonExistingTicket" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyBusTicketUnitTests" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyBusTicketUnitTests.TestDeleteBusTicketReturnsTicketDeleted" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyBusTicketUnitTests.TestAddBusTicketIsCorrectlyAdded" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;e Id="TravelAgencyUnitTests.TravelAgencyBusTicketUnitTests.TestAddBusTicketIsDuplicated" Project="7F5E50D1-AC85-4321-93B4-C6D41F6E9D24" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	</wpf:ResourceDictionary>

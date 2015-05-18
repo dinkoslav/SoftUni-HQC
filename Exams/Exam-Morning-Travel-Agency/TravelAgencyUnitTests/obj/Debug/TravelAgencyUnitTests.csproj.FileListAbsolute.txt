@@ -1,0 +1,8 @@
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\bin\Debug\TravelAgencyUnitTests.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\bin\Debug\TravelAgencyUnitTests.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\bin\Debug\TravelAgency.exe
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\bin\Debug\PowerCollections.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\bin\Debug\TravelAgency.pdb
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\obj\Debug\TravelAgencyUnitTests.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\obj\Debug\TravelAgencyUnitTests.dll
+D:\Homeworks\SoftUni\HQC\Exams\Exam-Morning-Travel-Agency\TravelAgencyUnitTests\obj\Debug\TravelAgencyUnitTests.pdb
